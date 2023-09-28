@@ -23,4 +23,19 @@ The columns from the metadata:
 
 * ```TableName```: The name of the country or region.  
 
+# ANALYSIS
+
+##### Average Population by Region in 2022
+
+![Local Image](output.png)
+
+*inference*     
+* from above in 2022 South Asia has the highest population among the other regions
+* High-Population Regions: The top 3 regions  represent areas with the highest average populations in 2022. These regions may include densely populated countries and urban centers.
+* Low-Population Regions: These regions may include sparsely populated areas and smaller countries.
+* Socioeconomic Implications: High-population regionslike South Asia  may face challenges related to resource management, infrastructure development, healthcare, and education. Policymakers may need to address these challenges to ensure the well-being of their populations
+
+
+#### AUTHOR
+Marwa Osman: marwaosman9975@gmail.com
 
