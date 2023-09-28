@@ -36,10 +36,10 @@ The columns from the metadata:
 * Socioeconomic Implications: High-population regionslike South Asia  may face challenges related to resource management, infrastructure development, healthcare, and education. Policymakers may need to address these challenges to ensure the well-being of their populations
 
 
-#### AUTHOR
-Marwa Osman: marwaosman9975@gmail.com    
+#### AUTHOR           
+marwa Osman: marwaosman9975@gmail.com    
 
-👉 LinkedIn:  https://www.linkedin.com/in/marwa-osman-00190b222/
+👉 [LinkedIn](https://www.linkedin.com/in/marwa-osman-00190b222/)
 
-👉 GitHub:  https://github.com/marwa9975
+👉 [GitHub](https://github.com/marwa9975)
 
